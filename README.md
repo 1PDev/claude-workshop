@@ -21,10 +21,6 @@ This workshop teaches developers how to effectively use Claude Code for producti
 │   ├── Workshop-Day1.md    # Foundations & Core Configuration
 │   ├── Workshop-Day2.md    # Sub-agents & Multi-Agent Pipelines
 │   └── Workshop-Day3.md    # AI Evaluations & Production Readiness
-├── appendix/
-│   ├── Appendix-Day1.md    # Day 1 supplementary materials
-│   ├── Appendix-Day2.md    # Day 2 supplementary materials
-│   └── Appendix-Day3.md    # Day 3 supplementary materials
 └── Claude-Code-Workshop.pptx  # Presentation slides
 ```
 
